@@ -6,6 +6,6 @@
 <hr>
 
 
-# 1. 곧 추가
-- 소스코드 : 
+# 1. 단계별로 풀어보기
+- 소스코드 : https://github.com/roqhdehd502/Algorithm-Test/tree/main/Baekjoon/One-Step-One-Closer
 
