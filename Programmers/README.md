@@ -7,5 +7,5 @@
 
 
 # 1. SQL
-- 소스코드 : https://github.com/roqhdehd502/Algorithm-Test/tree/main/Programmers
+- 소스코드 : https://github.com/roqhdehd502/Algorithm-Test/tree/main/Programmers/SQL
 
